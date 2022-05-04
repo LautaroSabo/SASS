@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Trabajo-GRID-RESPONSIVE - copia\\img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProyectoFinal-Segundo",
+		"liveServer.settings.port": 5501
+	}
+}
